@@ -1,2 +1,1 @@
-# robocode-results
-Publish the results for DarbyComputerClub/darbyrobocode
+# Everything is on the `gh-pages` branch
