@@ -1,8 +1,8 @@
 Darby Robocode Battle
-1v1/enz_v_jac #306
+1v1/enz_v_jac #307
 Results for 10 rounds
 Robot Name	    Total Score    	Survival	Surv Bonus	Bullet Dmg	Bullet Bonus	Ram Dmg * 2	Ram Bonus	 1sts 	 2nds 	 3rds 	
-1st: io.github.jacobsims.AimingBot*	1396 (83%)	450	90	704	129	23	0	10	0	0	
-2nd: io.github.enzanki_ars.AlexSimpleBot*	288 (17%)	0	0	270	0	18	0	1	9	0	
+1st: io.github.jacobsims.AimingBot*	1526 (86%)	500	100	754	153	19	0	10	0	0	
+2nd: io.github.enzanki_ars.AlexSimpleBot*	242 (14%)	0	0	222	0	20	0	0	10	0	
 
-commit aca09add4b10884d13f7c616b488a0cae8b376fa
+commit 56e621f1284007347c349bbf65656d3166ceb46a

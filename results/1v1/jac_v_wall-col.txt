@@ -1,8 +1,8 @@
 Darby Robocode Battle
-1v1/jac_v_wall #306
+1v1/jac_v_wall #307
 Results for 10 rounds
 Robot Name	    Total Score    	Survival	Surv Bonus	Bullet Dmg	Bullet Bonus	Ram Dmg * 2	Ram Bonus	 1sts 	 2nds 	 3rds 	
-1st: io.github.jacobsims.AimingBot*	929 (75%)	350	70	431	74	4	0	9	1	0	
-2nd: sample.Walls	313 (25%)	50	10	240	12	1	0	3	7	0	
+1st: io.github.jacobsims.AimingBot*	1232 (82%)	400	80	640	108	4	0	10	0	0	
+2nd: sample.Walls	270 (18%)	0	0	270	0	0	0	2	8	0	
 
-commit aca09add4b10884d13f7c616b488a0cae8b376fa
+commit 56e621f1284007347c349bbf65656d3166ceb46a
