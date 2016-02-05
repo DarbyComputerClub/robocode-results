@@ -1,4 +1,4 @@
 Results for 20 rounds
 Robot Name	    Total Score    	Survival	Surv Bonus	Bullet Dmg	Bullet Bonus	Ram Dmg * 2	Ram Bonus	 1sts 	 2nds 	 3rds 	
-1st: io.github.mrswhi.HelloWorldRobot*	1695 (53%)	450	90	943	102	110	0	11	9	0	
-2nd: io.github.MattJa.Rooobit*	1513 (47%)	450	90	732	121	120	0	11	9	0	
+1st: io.github.MattJa.Rooobit*	1667 (51%)	550	110	768	150	90	0	11	9	0	
+2nd: io.github.mrswhi.HelloWorldRobot*	1621 (49%)	450	90	917	99	65	0	9	11	0	
